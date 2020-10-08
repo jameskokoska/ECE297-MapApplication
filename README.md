@@ -1,6 +1,6 @@
 ![Banner](/pictures/banner.png)
 # ECE297 Maps Project 
-![GitHubStats](/pictures/githubStats1.png) 
+![GitHubStats](/pictures/githubStats1.png)<br/>
 A map application written in C++ from a very low level API reading from an OpenStreetMaps database<br/>
 Note: because this was a University project, the source code is not and will not be public
 ## Features
@@ -75,29 +75,25 @@ Note: because this was a University project, the source code is not and will not
 | ------------- | ------------- |
 | ![Help Text](/pictures/HelpText.png)  | ![Dark Mode With Icons](/pictures/DarkModeWithIcons.png) |
 
-| Dynamic Street Names  | High Detail Mode Toggled |
-| ------------- | ------------- |
-| ![Dynamic Street Names](/pictures/DynamicStreetNames.gif)  | ![High Detail Mode](/pictures/HighDetailModeToggle.gif) |
+#### Dynamic Street Names
+![Dynamic Street Names](/pictures/DynamicStreetNames.gif)  
+#### High Detail Mode Toggled
+![High Detail Mode](/pictures/HighDetailModeToggle.gif)
 
 | Google Maps  | Our Map |
 | ------------- | ------------- |
 | ![Google Maps](/pictures/GoogleMapsVSOurMap.png)  | ![Our Map](/pictures/GoogleMapsVSOurMap(2).png) |
 
-##### Navigation Instructions Status Bar
+#### Navigation Instructions Status Bar
 ![Navigation Instructions](/pictures/StatusBarNavInfo.png)
-
-| Autocomplete Navigation Start to Street Intersection  | Switching Navigation Modes |
-| ------------- | ------------- |
-| ![Set Navigation Start to Intersection](/pictures/AutoCompleteSetAsNavigationStart.png)  | ![Switcging Navigation Modes](/pictures/SwitchingNavigationModes.gif) |
-
-##### Selecting Point of Interest as a Start Point
+#### Selecting Point of Interest as a Start Point
 ![Selecting Point of Interest as a Start Point](/pictures/SelectingPOIasStartNavigation.gif)
-##### Changing Navigation Parameters
+#### Changing Navigation Parameters
 ![Changing Navigation Parameters](/pictures/ChangingPathFindingParameters.gif)
-##### Navigation Route Highlighting Info
+#### Navigation Route Highlighting Info
 ![Navigation Route Highlighting Info](/pictures/StatusBarShowHighlightedPathSegmentInstruction.gif)
 ![Navigation Route Highlighting Info](/pictures/StatusBarShowHighlightedPathSegmentInstruction.png)
-##### Navigation Instructions - Car
+#### Navigation Instructions - Car
 ![Car Navigation Instructions](/pictures/NavigationInstructionsDriving.png)
-##### Navigation Instructions - Walk/Car
+#### Navigation Instructions - Walk/Car
 ![Walk/Car Navigation Instructions](/pictures/NavigationInstructionsWalkingAndDriving.png)
